@@ -1,28 +1,15 @@
-# CVL Assignment 01 – Image Enhancement
-
-This repository contains implementations for three computer vision tasks:
+This repository contains solutions for CVL Assignment 01:
 
 1. Blurred Image Enhancement
 2. Dark Image Enhancement
 3. Overexposed Image Enhancement
 
-## Structure
+Each task is implemented in a separate Jupyter notebook.
 
-Each folder contains:
-- Jupyter Notebook implementation
-- Dataset (if required)
-- Output results
+Datasets used:
+- COCO val2017 (for exposure experiments)
 
-## Requirements
+Note: The COCO dataset is not included due to its size.
+Please download it from https://cocodataset.org if running the notebooks.
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-## Running
-
-Open the notebooks using Jupyter Notebook or Kaggle and run all cells.
-
-## Author
-Muhammad Javier
-24/546674/PA/23210
+Libraries required are listed in requirements.txt.
