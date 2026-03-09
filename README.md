@@ -13,3 +13,6 @@ Note: The COCO dataset is not included due to its size.
 Please download it from https://cocodataset.org if running the notebooks.
 
 Libraries required are listed in requirements.txt.
+
+Muhammad Javier
+24/546674/PA/23210
